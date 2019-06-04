@@ -1,0 +1,6 @@
+framework module LFLogProject {
+  umbrella header "LFLogProject-umbrella.h"
+
+  export *
+  module * { export * }
+}

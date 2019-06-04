@@ -1,0 +1,16 @@
+PODS:
+  - LFLogProject (0.1.0)
+
+DEPENDENCIES:
+  - LFLogProject (from `../`)
+
+EXTERNAL SOURCES:
+  LFLogProject:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  LFLogProject: 6143e72f273b0dad00d745afe85e7d5eab4ed682
+
+PODFILE CHECKSUM: 99da3f01f072566f75d5812cf088eb94f7d4a982
+
+COCOAPODS: 1.6.1

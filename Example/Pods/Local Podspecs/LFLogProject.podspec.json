@@ -1,0 +1,22 @@
+{
+  "name": "LFLogProject",
+  "version": "0.1.0",
+  "summary": "A short description of LFLogProject.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/mylovell/LFLogProject",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "mylovell": "906197961@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/mylovell/LFLogProject.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "LFLogProject/Classes/**/*"
+}

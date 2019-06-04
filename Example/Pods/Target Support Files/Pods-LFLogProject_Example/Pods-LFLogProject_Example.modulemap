@@ -1,0 +1,6 @@
+framework module Pods_LFLogProject_Example {
+  umbrella header "Pods-LFLogProject_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

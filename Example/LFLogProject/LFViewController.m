@@ -7,6 +7,7 @@
 //
 
 #import "LFViewController.h"
+#import "NSObject+LFLog.h"
 
 @interface LFViewController ()
 
@@ -18,6 +19,9 @@
 {
     [super viewDidLoad];
 	// Do any additional setup after loading the view, typically from a nib.
+    self.view.backgroundColor = [UIColor orangeColor];
+    [self.view lfLog];
+    
 }
 
 - (void)didReceiveMemoryWarning
